@@ -1,0 +1,33 @@
+.h:hover{
+    background-color: aqua;
+    color: brown;
+    border-radius: 4px;
+    padding: 5px;
+}
+.seminar{
+    background-color: red;
+    color: rgb(22, 22, 22);
+}
+.seminar:hover{
+    background-color: aqua;
+    color: rgb(39, 58, 20);
+}
+
+.admission{
+    background-color: blueviolet;
+    color: burlywood;
+}
+.admission:hover{
+    background-color: aquamarine;
+    color: rgb(226, 43, 52);
+}
+.ntc{
+    background-color:  rgb(0,0,0);
+    color: white;
+}
+
+.footer{
+    background-color: rgb(14, 14, 41);
+    color: white;
+    padding: 60px;
+}
